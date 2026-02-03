@@ -1,14 +1,21 @@
 # 👋 Hi, I'm Asilhan
 
-## 💻 Full Stack Developer | Python & .NET
+## 💻 Full Stack Developer | Python & .NET (ASP.NET Core)
 
-I am a passionate and results-driven Full Stack Developer with hands-on experience in building scalable and maintainable software solutions. I enjoy working across backend and frontend technologies, integrating clean architecture and modular design in real-world projects.
+I am a Full Stack Developer with hands-on experience in backend and web application development using Python and .NET (C#).  
+I focus on building scalable, maintainable, and data-driven software solutions using clean architecture and modular code design.
+
+I have strong knowledge of object-oriented programming (OOP) and full stack web development with HTML, CSS, JavaScript, and Bootstrap.  
+My backend experience includes ASP.NET Core and Entity Framework, and I have worked with relational databases such as MySQL, Oracle SQL, and PL/SQL.
+
+I also have a background in system analysis, UML diagramming, and software architecture fundamentals, with a strong focus on user experience and data security.  
+I am familiar with Agile methodologies and collaborative development workflows and I am seeking opportunities as a Full Stack Developer or Backend Developer, with a strong interest in data-driven systems and applied Data Science.
 
 ---
 
 ## 🧠 Technical Skills
 
-### 🔹 Languages
+### 🔹 Programming Languages
 - Python  
 - C#  
 - C  
@@ -17,9 +24,9 @@ I am a passionate and results-driven Full Stack Developer with hands-on experien
 - Lua  
 
 ### 🔹 Backend & Frameworks
-- ASP.NET Core (C#)  
+- ASP.NET Core  
 - Entity Framework  
-- Flask (Python)  
+- Flask  
 
 ### 🔹 Frontend
 - HTML  
@@ -28,53 +35,34 @@ I am a passionate and results-driven Full Stack Developer with hands-on experien
 - Bootstrap  
 
 ### 🔹 Databases
+- SQL  
 - MySQL  
 - Oracle SQL  
 - PL/SQL  
 
 ### 🔹 Tools & Concepts
+- REST APIs  
 - Git & GitHub  
 - Linux  
+- Object-Oriented Programming (OOP)  
 - Debugging & Logging  
-- OOP & Modular Code Design  
+- Software Architecture  
+- UML  
 - Agile Methodologies  
-- Software Architecture & UML
 
 ---
 
-## 🚀 Selected Projects
-
-### **Chatbot & Automation Applications (Python)**
-Developed multiple automation and chatbot projects using Python with external API integration, emphasizing modular and maintainable code.
-
-### **Hospital Appointment Management System (PHP & MySQL)**
-A full CRUD system designed using PHP and MySQL, focused on database schema design and optimized query handling.
-
-### **Desktop Calculator Application (Python & Tkinter)**
-Created a GUI-based calculator using event-driven programming techniques and robust error handling.
-
-### **Database Backup Automation Script (Linux Bash + Cron)**
-Automated database backups with scheduling and recovery scripts to ensure data integrity and reliability.
-
-### **Web Applications (HTML, CSS, JavaScript, Bootstrap)**
-Responsive frontend projects demonstrating UI design and web interface implementation.
-
-### **Backend Services (.NET / ASP.NET Core)**
-Developed REST-style backend services using ASP.NET Core with Entity Framework integration.
-
----
-
-## 📈 What I’m Focused On
+## 📈 Current Focus
 
 - Building scalable and secure backend systems  
 - Deepening expertise in modern .NET technologies  
-- Data-driven applications and real-time systems  
-- Clean, testable, and modular code  
-- Collaborative software development workflows
+- Developing data-driven and real-time applications  
+- Writing clean, testable, and modular code  
+- Working with collaborative software development workflows  
 
 ---
 
 ## 📫 Let’s Connect
 
-[🔗 LinkedIn](https://www.linkedin.com/in/asilhanb) | [📂 GitHub](https://github.com/asilhanb)
-
+- 🔗 LinkedIn: https://www.linkedin.com/in/asilhanb  
+- 📂 GitHub: https://github.com/asilhanb  
